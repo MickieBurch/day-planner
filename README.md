@@ -9,10 +9,15 @@ With this planner you are able to add a note or a task in the specific time slot
 
 
 # Link to application:
-INSERT HERE
+https://mickieburch.github.io/day-planner/
 
 
-# Demo 
-INsert here 
+# Demo
+![Work Day Scheduler](https://user-images.githubusercontent.com/93951895/151710072-ac09ce25-5b0d-4e9b-b6ea-0521490d1d59.png)
+
+https://user-images.githubusercontent.com/93951895/151710050-5b1a10b5-f8a2-4959-a7ee-a287b3751676.mp4
 
 
+# Sources
+We3Schools 
+Youtube 
